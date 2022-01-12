@@ -1,4 +1,4 @@
-Feature: cancelar_alquiler
+Feature: cancelar_reserva
 
 Scenario: Cancelar una reserva pendiente de aprobar
 	Given se intenta cancelar una reserva
